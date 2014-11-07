@@ -1,0 +1,14 @@
+{ "name": "capture",
+"scripts":{
+	"start" : "nodemon app.js"
+}
+,
+"dependencies" : { 
+"jquerygo" : ">=0",
+"async" : ">=0",
+"nconf" : ">=0",
+"prompt" : ">=0"
+},
+"devDependencies" : 
+{"nodemon" : ">=0"}
+}
